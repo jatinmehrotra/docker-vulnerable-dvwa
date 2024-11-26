@@ -1,4 +1,4 @@
-FROM debian:9.2
+FROM public.ecr.aws/debian/debian:9.13
 
 LABEL maintainer "opsxcq@strm.sh"
 
